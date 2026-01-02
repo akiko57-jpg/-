@@ -35,6 +35,14 @@ h2 {
     font-size: 1.8em;
 }
 
+/* マリンバの画像 */
+.marimba-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
 /* リンクのスタイル */
 a {
     color: #7e4b3c; /* リンクの色を茶色 */
